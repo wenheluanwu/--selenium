@@ -2,7 +2,6 @@ import os
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
-from selenium.webdriver import ActionChains
 
 #  把浏览器驱动写入到环境配置
 os.environ["PATH"] += r"D:\ChromeDriver"
